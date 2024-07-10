@@ -1,1 +1,4 @@
 __pycache__/
+
+build/
+getimg_api_autoreg.egg-info/
